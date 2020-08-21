@@ -1,0 +1,10 @@
+{
+    "posts": [
+        {"id": 1, "title": "JS Post1", "body": "11LoremLoremLoremLorem"},
+        {"id": 2, "title": "JS Post2", "body": "22LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem"},
+        {"id": 3, "title": "JS Post3", "body": "33LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem"},
+        {"id": 4, "title": "JS Post4", "body": "44LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem"},
+        {"id": 5, "title": "JS Post5", "body": "55LoremLoremLoremLoremLoremLoremLoremLorem"},
+        {"id": 6, "title": "JS Post6", "body": "777LoremLoremLoremLoremLoremLoremLoremLorem"}
+    ]
+}
